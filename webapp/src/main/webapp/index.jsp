@@ -21,6 +21,6 @@
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
   <div>
-   <marquee><h1 style="color:#9900ff"> "JYOTHI"</h1><marquee> 
+   <marquee><h1 style="color:#9900ff"> "  DEVOPS  "</h1><marquee> 
    </div>
 </form>
