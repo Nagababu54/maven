@@ -1,3 +1,3 @@
 FROM nginx
-COPY . /var/www/html/
+COPY ./webapp.war /var/www/html/
 EXPOSE 80
